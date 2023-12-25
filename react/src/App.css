@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  text-align: center;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+li {
+  display: inline;
+  text-decoration: none;
+  margin: 10px;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: 700px;
+}
